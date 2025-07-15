@@ -1,0 +1,3 @@
+#ignore the files producted by the notebook
+*.txt
+*.png
