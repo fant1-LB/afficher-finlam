@@ -1,3 +1,5 @@
 #ignore the files producted by the notebook
 *.txt
 *.png
+#ignore the parquet files
+*.parquet
